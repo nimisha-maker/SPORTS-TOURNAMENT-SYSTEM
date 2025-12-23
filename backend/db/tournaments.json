@@ -1,0 +1,1655 @@
+[
+  {
+    "id": 1765525272429,
+    "name": "IPT",
+    "venue": "Wankhede Stadium",
+    "startDate": "2025-12-13",
+    "endDate": "2025-12-15",
+    "description": "",
+    "banner": "",
+    "status": "Published",
+    "sportType": "Padel",
+    "events": [
+      {
+        "id": "ev-1765525231109",
+        "label": "WOMEN'S",
+        "sportName": "Padel",
+        "type": "Double",
+        "format": "Knockout",
+        "participants": [
+          {
+            "id": "double-1765525241128-0.2754697826075858",
+            "teamName": "Double Team 1",
+            "players": [
+              {
+                "id": 1765270149058,
+                "name": "Nimisha Idekar",
+                "firstName": "Nimisha",
+                "lastName": "Idekar"
+              },
+              {
+                "id": 1765270213471,
+                "name": "Sneha Bhavsar",
+                "firstName": "Sneha",
+                "lastName": "Bhavsar"
+              }
+            ]
+          },
+          {
+            "id": "double-1765525245959-0.5057820932323205",
+            "teamName": "Double Team 2",
+            "players": [
+              {
+                "id": 1765427083524.157,
+                "name": "Kevin Brewer",
+                "firstName": "Kevin",
+                "lastName": "Brewer"
+              },
+              {
+                "id": 1765427083524.009,
+                "name": "Tracy Marsh",
+                "firstName": "Tracy",
+                "lastName": "Marsh"
+              }
+            ]
+          },
+          {
+            "id": "double-1765525249545-0.1294993045037348",
+            "teamName": "Double Team 3",
+            "players": [
+              {
+                "id": 1765427083524.751,
+                "name": "Richard Daniel",
+                "firstName": "Richard",
+                "lastName": "Daniel"
+              },
+              {
+                "id": 1765427083524.903,
+                "name": "Matthew Little",
+                "firstName": "Matthew",
+                "lastName": "Little"
+              }
+            ]
+          },
+          {
+            "id": "double-1765525252851-0.7809534555725739",
+            "teamName": "Double Team 4",
+            "players": [
+              {
+                "id": 1765427083524.7078,
+                "name": "David Flores",
+                "firstName": "David",
+                "lastName": "Flores"
+              },
+              {
+                "id": 1765427083524.494,
+                "name": "Douglas Joyce",
+                "firstName": "Douglas",
+                "lastName": "Joyce"
+              }
+            ]
+          }
+        ],
+        "fixtures": [
+          {
+            "id": "m-1765525257221-0.4595697256256014",
+            "round": 1,
+            "teamA": {
+              "id": "double-1765525249545-0.1294993045037348",
+              "name": "Richard Daniel / Matthew Little",
+              "raw": {
+                "id": "double-1765525249545-0.1294993045037348",
+                "teamName": "Double Team 3",
+                "players": [
+                  {
+                    "id": 1765427083524.751,
+                    "name": "Richard Daniel",
+                    "firstName": "Richard",
+                    "lastName": "Daniel"
+                  },
+                  {
+                    "id": 1765427083524.903,
+                    "name": "Matthew Little",
+                    "firstName": "Matthew",
+                    "lastName": "Little"
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765525241128-0.2754697826075858",
+              "name": "Nimisha Idekar / Sneha Bhavsar",
+              "raw": {
+                "id": "double-1765525241128-0.2754697826075858",
+                "teamName": "Double Team 1",
+                "players": [
+                  {
+                    "id": 1765270149058,
+                    "name": "Nimisha Idekar",
+                    "firstName": "Nimisha",
+                    "lastName": "Idekar"
+                  },
+                  {
+                    "id": 1765270213471,
+                    "name": "Sneha Bhavsar",
+                    "firstName": "Sneha",
+                    "lastName": "Bhavsar"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": "2025-12-13T13:11",
+            "court": "1",
+            "status": "Completed",
+            "score": {
+              "sets": [
+                {
+                  "a": 1,
+                  "b": 2
+                },
+                {
+                  "a": 3,
+                  "b": 4
+                },
+                {
+                  "a": 3,
+                  "b": 2
+                }
+              ],
+              "a": 1,
+              "b": 2
+            },
+            "streamUrl": ""
+          },
+          {
+            "id": "m-1765525257221-0.8963718821030066",
+            "round": 1,
+            "teamA": {
+              "id": "double-1765525245959-0.5057820932323205",
+              "name": "Kevin Brewer / Tracy Marsh",
+              "raw": {
+                "id": "double-1765525245959-0.5057820932323205",
+                "teamName": "Double Team 2",
+                "players": [
+                  {
+                    "id": 1765427083524.157,
+                    "name": "Kevin Brewer",
+                    "firstName": "Kevin",
+                    "lastName": "Brewer"
+                  },
+                  {
+                    "id": 1765427083524.009,
+                    "name": "Tracy Marsh",
+                    "firstName": "Tracy",
+                    "lastName": "Marsh"
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765525252851-0.7809534555725739",
+              "name": "David Flores / Douglas Joyce",
+              "raw": {
+                "id": "double-1765525252851-0.7809534555725739",
+                "teamName": "Double Team 4",
+                "players": [
+                  {
+                    "id": 1765427083524.7078,
+                    "name": "David Flores",
+                    "firstName": "David",
+                    "lastName": "Flores"
+                  },
+                  {
+                    "id": 1765427083524.494,
+                    "name": "Douglas Joyce",
+                    "firstName": "Douglas",
+                    "lastName": "Joyce"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": "2025-12-14T13:11",
+            "court": "1",
+            "status": "Completed",
+            "score": {
+              "sets": [
+                {
+                  "a": 2,
+                  "b": 3
+                },
+                {
+                  "a": 2,
+                  "b": 1
+                },
+                {
+                  "a": 4,
+                  "b": 2
+                }
+              ],
+              "a": 2,
+              "b": 1
+            }
+          },
+          {
+            "id": "f-1765525330298538",
+            "round": 2,
+            "teamA": {
+              "id": "double-1765525241128-0.2754697826075858",
+              "name": "Nimisha Idekar / Sneha Bhavsar",
+              "raw": {
+                "id": "double-1765525241128-0.2754697826075858",
+                "teamName": "Double Team 1",
+                "players": [
+                  {
+                    "id": 1765270149058,
+                    "name": "Nimisha Idekar",
+                    "firstName": "Nimisha",
+                    "lastName": "Idekar"
+                  },
+                  {
+                    "id": 1765270213471,
+                    "name": "Sneha Bhavsar",
+                    "firstName": "Sneha",
+                    "lastName": "Bhavsar"
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765525241128-0.2754697826075858",
+              "name": "Nimisha Idekar / Sneha Bhavsar",
+              "raw": {
+                "id": "double-1765525241128-0.2754697826075858",
+                "teamName": "Double Team 1",
+                "players": [
+                  {
+                    "id": 1765270149058,
+                    "name": "Nimisha Idekar",
+                    "firstName": "Nimisha",
+                    "lastName": "Idekar"
+                  },
+                  {
+                    "id": 1765270213471,
+                    "name": "Sneha Bhavsar",
+                    "firstName": "Sneha",
+                    "lastName": "Bhavsar"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": null,
+            "court": null,
+            "status": "Completed",
+            "score": {
+              "sets": [
+                {
+                  "a": 2,
+                  "b": 3
+                },
+                {
+                  "a": 4,
+                  "b": 4
+                },
+                {
+                  "a": 1,
+                  "b": 3
+                }
+              ],
+              "a": 0,
+              "b": 2
+            }
+          },
+          {
+            "id": "f-1765525369040111",
+            "round": 2,
+            "teamA": {
+              "id": "double-1765525245959-0.5057820932323205",
+              "name": "Kevin Brewer / Tracy Marsh",
+              "raw": {
+                "id": "double-1765525245959-0.5057820932323205",
+                "teamName": "Double Team 2",
+                "players": [
+                  {
+                    "id": 1765427083524.157,
+                    "name": "Kevin Brewer",
+                    "firstName": "Kevin",
+                    "lastName": "Brewer"
+                  },
+                  {
+                    "id": 1765427083524.009,
+                    "name": "Tracy Marsh",
+                    "firstName": "Tracy",
+                    "lastName": "Marsh"
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765525241128-0.2754697826075858",
+              "name": "Nimisha Idekar / Sneha Bhavsar",
+              "raw": {
+                "id": "double-1765525241128-0.2754697826075858",
+                "teamName": "Double Team 1",
+                "players": [
+                  {
+                    "id": 1765270149058,
+                    "name": "Nimisha Idekar",
+                    "firstName": "Nimisha",
+                    "lastName": "Idekar"
+                  },
+                  {
+                    "id": 1765270213471,
+                    "name": "Sneha Bhavsar",
+                    "firstName": "Sneha",
+                    "lastName": "Bhavsar"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": null,
+            "court": null,
+            "status": "Completed",
+            "score": {
+              "sets": [
+                {
+                  "a": 1,
+                  "b": 1
+                },
+                {
+                  "a": 2,
+                  "b": 3
+                },
+                {
+                  "a": 1,
+                  "b": 3
+                }
+              ],
+              "a": 0,
+              "b": 2
+            }
+          },
+          {
+            "id": "f-1765569008658336",
+            "round": 2,
+            "teamA": {
+              "id": "double-1765525245959-0.5057820932323205",
+              "name": "Kevin Brewer / Tracy Marsh",
+              "raw": {
+                "id": "double-1765525245959-0.5057820932323205",
+                "teamName": "Double Team 2",
+                "players": [
+                  {
+                    "id": 1765427083524.157,
+                    "name": "Kevin Brewer",
+                    "firstName": "Kevin",
+                    "lastName": "Brewer"
+                  },
+                  {
+                    "id": 1765427083524.009,
+                    "name": "Tracy Marsh",
+                    "firstName": "Tracy",
+                    "lastName": "Marsh"
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765525241128-0.2754697826075858",
+              "name": "Nimisha Idekar / Sneha Bhavsar",
+              "raw": {
+                "id": "double-1765525241128-0.2754697826075858",
+                "teamName": "Double Team 1",
+                "players": [
+                  {
+                    "id": 1765270149058,
+                    "name": "Nimisha Idekar",
+                    "firstName": "Nimisha",
+                    "lastName": "Idekar"
+                  },
+                  {
+                    "id": 1765270213471,
+                    "name": "Sneha Bhavsar",
+                    "firstName": "Sneha",
+                    "lastName": "Bhavsar"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": null,
+            "court": null,
+            "status": "Completed",
+            "score": {
+              "sets": [
+                {
+                  "a": 6,
+                  "b": 3
+                },
+                {
+                  "a": 2,
+                  "b": 6
+                },
+                {
+                  "a": 7,
+                  "b": 6
+                }
+              ],
+              "a": 2,
+              "b": 1
+            }
+          },
+          {
+            "id": "f-1765569008658394",
+            "round": 3,
+            "teamA": {
+              "id": "double-1765525241128-0.2754697826075858",
+              "name": "Nimisha Idekar / Sneha Bhavsar",
+              "raw": {
+                "id": "double-1765525241128-0.2754697826075858",
+                "teamName": "Double Team 1",
+                "players": [
+                  {
+                    "id": 1765270149058,
+                    "name": "Nimisha Idekar",
+                    "firstName": "Nimisha",
+                    "lastName": "Idekar"
+                  },
+                  {
+                    "id": 1765270213471,
+                    "name": "Sneha Bhavsar",
+                    "firstName": "Sneha",
+                    "lastName": "Bhavsar"
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765525241128-0.2754697826075858",
+              "name": "Nimisha Idekar / Sneha Bhavsar",
+              "raw": {
+                "id": "double-1765525241128-0.2754697826075858",
+                "teamName": "Double Team 1",
+                "players": [
+                  {
+                    "id": 1765270149058,
+                    "name": "Nimisha Idekar",
+                    "firstName": "Nimisha",
+                    "lastName": "Idekar"
+                  },
+                  {
+                    "id": 1765270213471,
+                    "name": "Sneha Bhavsar",
+                    "firstName": "Sneha",
+                    "lastName": "Bhavsar"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": null,
+            "court": null,
+            "status": "Paused",
+            "score": {
+              "a": 0,
+              "b": 2
+            },
+            "streamUrl": "",
+            "setFormat": 3,
+            "goldenPoint": false,
+            "tiebreak": false
+          },
+          {
+            "id": "f-1765569507174988",
+            "round": 2,
+            "teamA": {
+              "id": "double-1765525245959-0.5057820932323205",
+              "name": "Kevin Brewer / Tracy Marsh",
+              "raw": {
+                "id": "double-1765525245959-0.5057820932323205",
+                "teamName": "Double Team 2",
+                "players": [
+                  {
+                    "id": 1765427083524.157,
+                    "name": "Kevin Brewer",
+                    "firstName": "Kevin",
+                    "lastName": "Brewer"
+                  },
+                  {
+                    "id": 1765427083524.009,
+                    "name": "Tracy Marsh",
+                    "firstName": "Tracy",
+                    "lastName": "Marsh"
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765525241128-0.2754697826075858",
+              "name": "Nimisha Idekar / Sneha Bhavsar",
+              "raw": {
+                "id": "double-1765525241128-0.2754697826075858",
+                "teamName": "Double Team 1",
+                "players": [
+                  {
+                    "id": 1765270149058,
+                    "name": "Nimisha Idekar",
+                    "firstName": "Nimisha",
+                    "lastName": "Idekar"
+                  },
+                  {
+                    "id": 1765270213471,
+                    "name": "Sneha Bhavsar",
+                    "firstName": "Sneha",
+                    "lastName": "Bhavsar"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": null,
+            "court": null,
+            "status": "Paused",
+            "score": null
+          },
+          {
+            "id": "f-1765569507174627",
+            "round": 3,
+            "teamA": {
+              "id": "double-1765525241128-0.2754697826075858",
+              "name": "Nimisha Idekar / Sneha Bhavsar",
+              "raw": {
+                "id": "double-1765525241128-0.2754697826075858",
+                "teamName": "Double Team 1",
+                "players": [
+                  {
+                    "id": 1765270149058,
+                    "name": "Nimisha Idekar",
+                    "firstName": "Nimisha",
+                    "lastName": "Idekar"
+                  },
+                  {
+                    "id": 1765270213471,
+                    "name": "Sneha Bhavsar",
+                    "firstName": "Sneha",
+                    "lastName": "Bhavsar"
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765525241128-0.2754697826075858",
+              "name": "Nimisha Idekar / Sneha Bhavsar",
+              "raw": {
+                "id": "double-1765525241128-0.2754697826075858",
+                "teamName": "Double Team 1",
+                "players": [
+                  {
+                    "id": 1765270149058,
+                    "name": "Nimisha Idekar",
+                    "firstName": "Nimisha",
+                    "lastName": "Idekar"
+                  },
+                  {
+                    "id": 1765270213471,
+                    "name": "Sneha Bhavsar",
+                    "firstName": "Sneha",
+                    "lastName": "Bhavsar"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": null,
+            "court": null,
+            "status": "Scheduled",
+            "score": null
+          },
+          {
+            "id": "f-1765774133439835",
+            "round": 2,
+            "teamA": {
+              "id": "double-1765525245959-0.5057820932323205",
+              "name": "Kevin Brewer / Tracy Marsh",
+              "raw": {
+                "id": "double-1765525245959-0.5057820932323205",
+                "teamName": "Double Team 2",
+                "players": [
+                  {
+                    "id": 1765427083524.157,
+                    "name": "Kevin Brewer",
+                    "firstName": "Kevin",
+                    "lastName": "Brewer"
+                  },
+                  {
+                    "id": 1765427083524.009,
+                    "name": "Tracy Marsh",
+                    "firstName": "Tracy",
+                    "lastName": "Marsh"
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765525249545-0.1294993045037348",
+              "name": "Richard Daniel / Matthew Little",
+              "raw": {
+                "id": "double-1765525249545-0.1294993045037348",
+                "teamName": "Double Team 3",
+                "players": [
+                  {
+                    "id": 1765427083524.751,
+                    "name": "Richard Daniel",
+                    "firstName": "Richard",
+                    "lastName": "Daniel"
+                  },
+                  {
+                    "id": 1765427083524.903,
+                    "name": "Matthew Little",
+                    "firstName": "Matthew",
+                    "lastName": "Little"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": null,
+            "court": null,
+            "status": "Scheduled",
+            "score": null
+          },
+          {
+            "id": "f-1765774133439141",
+            "round": 3,
+            "teamA": {
+              "id": "double-1765525241128-0.2754697826075858",
+              "name": "Nimisha Idekar / Sneha Bhavsar",
+              "raw": {
+                "id": "double-1765525241128-0.2754697826075858",
+                "teamName": "Double Team 1",
+                "players": [
+                  {
+                    "id": 1765270149058,
+                    "name": "Nimisha Idekar",
+                    "firstName": "Nimisha",
+                    "lastName": "Idekar"
+                  },
+                  {
+                    "id": 1765270213471,
+                    "name": "Sneha Bhavsar",
+                    "firstName": "Sneha",
+                    "lastName": "Bhavsar"
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765525245959-0.5057820932323205",
+              "name": "Kevin Brewer / Tracy Marsh",
+              "raw": {
+                "id": "double-1765525245959-0.5057820932323205",
+                "teamName": "Double Team 2",
+                "players": [
+                  {
+                    "id": 1765427083524.157,
+                    "name": "Kevin Brewer",
+                    "firstName": "Kevin",
+                    "lastName": "Brewer"
+                  },
+                  {
+                    "id": 1765427083524.009,
+                    "name": "Tracy Marsh",
+                    "firstName": "Tracy",
+                    "lastName": "Marsh"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": null,
+            "court": null,
+            "status": "Scheduled",
+            "score": null
+          }
+        ],
+        "manual": false,
+        "showAddPlayerForm": false,
+        "rounds": []
+      }
+    ]
+  },
+  {
+    "id": 1765961677977,
+    "name": "INDIAN PADEL LEAGUE",
+    "venue": "Wankhede Stadium",
+    "startDate": "2025-12-18",
+    "endDate": "2025-12-21",
+    "description": "",
+    "banner": "",
+    "status": "Published",
+    "sportType": "Padel",
+    "events": [
+      {
+        "id": "ev-1765961551698",
+        "label": "Women's Doubles",
+        "sportName": "Padel",
+        "type": "Double",
+        "format": "Round Robin",
+        "participants": [
+          {
+            "id": "double-1765961560770-0.02295692910998448",
+            "teamName": "Double Team 1",
+            "players": [
+              {
+                "id": 1765270149058,
+                "name": "Nimisha Idekar",
+                "firstName": "Nimisha",
+                "lastName": "Idekar"
+              },
+              {
+                "id": 1765278912540,
+                "name": "test",
+                "firstName": "test",
+                "lastName": ""
+              }
+            ]
+          },
+          {
+            "id": "double-1765961565034-0.5226317386553224",
+            "teamName": "Double Team 2",
+            "players": [
+              {
+                "id": 1765427083524.009,
+                "name": "Tracy Marsh",
+                "firstName": "Tracy",
+                "lastName": "Marsh"
+              },
+              {
+                "id": 1765270213471,
+                "name": "Sneha Bhavsar",
+                "firstName": "Sneha",
+                "lastName": "Bhavsar"
+              }
+            ]
+          },
+          {
+            "id": "double-1765961569165-0.2894131886951883",
+            "teamName": "Double Team 3",
+            "players": [
+              {
+                "id": 1765427083524.8928,
+                "name": "Eric Taylor",
+                "firstName": "Eric",
+                "lastName": "Taylor"
+              },
+              {
+                "id": 1765427083524.9927,
+                "name": "Ruth Rodriguez",
+                "firstName": "Ruth",
+                "lastName": "Rodriguez"
+              }
+            ]
+          },
+          {
+            "id": "double-1765961573048-0.21030711850291117",
+            "teamName": "Double Team 4",
+            "players": [
+              {
+                "id": 1765427083524.6162,
+                "name": "Margaret Brown",
+                "firstName": "Margaret",
+                "lastName": "Brown"
+              },
+              {
+                "id": 1765427083524.2769,
+                "name": "Kathryn Vincent",
+                "firstName": "Kathryn",
+                "lastName": "Vincent"
+              }
+            ]
+          },
+          {
+            "id": "double-1765961583133-0.3129894956373378",
+            "teamName": "Double Team 5",
+            "players": [
+              {
+                "id": 1765427083524.163,
+                "name": "Sonia Ross",
+                "firstName": "Sonia",
+                "lastName": "Ross"
+              },
+              {
+                "id": 1765427083524.751,
+                "name": "Richard Daniel",
+                "firstName": "Richard",
+                "lastName": "Daniel"
+              }
+            ]
+          },
+          {
+            "id": "double-1765961589732-0.9954514033805597",
+            "teamName": "Double Team 6",
+            "players": [
+              {
+                "id": 1765427083524.494,
+                "name": "Douglas Joyce",
+                "firstName": "Douglas",
+                "lastName": "Joyce"
+              },
+              {
+                "id": 1765427083524.6099,
+                "name": "Jesse Davis",
+                "firstName": "Jesse",
+                "lastName": "Davis"
+              }
+            ]
+          }
+        ],
+        "fixtures": [
+          {
+            "id": "m-1765961594266-0.53052916058623",
+            "round": 1,
+            "teamA": {
+              "id": "double-1765961560770-0.02295692910998448",
+              "name": "Nimisha Idekar / test",
+              "raw": {
+                "id": "double-1765961560770-0.02295692910998448",
+                "teamName": "Double Team 1",
+                "players": [
+                  {
+                    "id": 1765270149058,
+                    "name": "Nimisha Idekar",
+                    "firstName": "Nimisha",
+                    "lastName": "Idekar"
+                  },
+                  {
+                    "id": 1765278912540,
+                    "name": "test",
+                    "firstName": "test",
+                    "lastName": ""
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765961589732-0.9954514033805597",
+              "name": "Douglas Joyce / Jesse Davis",
+              "raw": {
+                "id": "double-1765961589732-0.9954514033805597",
+                "teamName": "Double Team 6",
+                "players": [
+                  {
+                    "id": 1765427083524.494,
+                    "name": "Douglas Joyce",
+                    "firstName": "Douglas",
+                    "lastName": "Joyce"
+                  },
+                  {
+                    "id": 1765427083524.6099,
+                    "name": "Jesse Davis",
+                    "firstName": "Jesse",
+                    "lastName": "Davis"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": "2025-12-18T14:23",
+            "court": "1",
+            "status": "Paused",
+            "score": {
+              "a": 0,
+              "b": 2,
+              "sets": [
+                {
+                  "a": 5,
+                  "b": 5,
+                  "ta": null,
+                  "tb": null,
+                  "gp": null
+                },
+                {
+                  "a": 3,
+                  "b": 4,
+                  "ta": null,
+                  "tb": null,
+                  "gp": null
+                },
+                {
+                  "a": 4,
+                  "b": 6,
+                  "ta": null,
+                  "tb": null,
+                  "gp": null
+                }
+              ]
+            }
+          },
+          {
+            "id": "m-1765961594266-0.3407016015792237",
+            "round": 1,
+            "teamA": {
+              "id": "double-1765961565034-0.5226317386553224",
+              "name": "Tracy Marsh / Sneha Bhavsar",
+              "raw": {
+                "id": "double-1765961565034-0.5226317386553224",
+                "teamName": "Double Team 2",
+                "players": [
+                  {
+                    "id": 1765427083524.009,
+                    "name": "Tracy Marsh",
+                    "firstName": "Tracy",
+                    "lastName": "Marsh"
+                  },
+                  {
+                    "id": 1765270213471,
+                    "name": "Sneha Bhavsar",
+                    "firstName": "Sneha",
+                    "lastName": "Bhavsar"
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765961583133-0.3129894956373378",
+              "name": "Sonia Ross / Richard Daniel",
+              "raw": {
+                "id": "double-1765961583133-0.3129894956373378",
+                "teamName": "Double Team 5",
+                "players": [
+                  {
+                    "id": 1765427083524.163,
+                    "name": "Sonia Ross",
+                    "firstName": "Sonia",
+                    "lastName": "Ross"
+                  },
+                  {
+                    "id": 1765427083524.751,
+                    "name": "Richard Daniel",
+                    "firstName": "Richard",
+                    "lastName": "Daniel"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": "2025-12-18T15:30",
+            "court": "2",
+            "status": "Scheduled",
+            "score": null
+          },
+          {
+            "id": "m-1765961594266-0.401619519209099",
+            "round": 1,
+            "teamA": {
+              "id": "double-1765961569165-0.2894131886951883",
+              "name": "Eric Taylor / Ruth Rodriguez",
+              "raw": {
+                "id": "double-1765961569165-0.2894131886951883",
+                "teamName": "Double Team 3",
+                "players": [
+                  {
+                    "id": 1765427083524.8928,
+                    "name": "Eric Taylor",
+                    "firstName": "Eric",
+                    "lastName": "Taylor"
+                  },
+                  {
+                    "id": 1765427083524.9927,
+                    "name": "Ruth Rodriguez",
+                    "firstName": "Ruth",
+                    "lastName": "Rodriguez"
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765961573048-0.21030711850291117",
+              "name": "Margaret Brown / Kathryn Vincent",
+              "raw": {
+                "id": "double-1765961573048-0.21030711850291117",
+                "teamName": "Double Team 4",
+                "players": [
+                  {
+                    "id": 1765427083524.6162,
+                    "name": "Margaret Brown",
+                    "firstName": "Margaret",
+                    "lastName": "Brown"
+                  },
+                  {
+                    "id": 1765427083524.2769,
+                    "name": "Kathryn Vincent",
+                    "firstName": "Kathryn",
+                    "lastName": "Vincent"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": "2025-12-18T16:30",
+            "court": "1",
+            "status": "Scheduled",
+            "score": null
+          },
+          {
+            "id": "m-1765961594266-0.7223122757893407",
+            "round": 2,
+            "teamA": {
+              "id": "double-1765961560770-0.02295692910998448",
+              "name": "Nimisha Idekar / test",
+              "raw": {
+                "id": "double-1765961560770-0.02295692910998448",
+                "teamName": "Double Team 1",
+                "players": [
+                  {
+                    "id": 1765270149058,
+                    "name": "Nimisha Idekar",
+                    "firstName": "Nimisha",
+                    "lastName": "Idekar"
+                  },
+                  {
+                    "id": 1765278912540,
+                    "name": "test",
+                    "firstName": "test",
+                    "lastName": ""
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765961583133-0.3129894956373378",
+              "name": "Sonia Ross / Richard Daniel",
+              "raw": {
+                "id": "double-1765961583133-0.3129894956373378",
+                "teamName": "Double Team 5",
+                "players": [
+                  {
+                    "id": 1765427083524.163,
+                    "name": "Sonia Ross",
+                    "firstName": "Sonia",
+                    "lastName": "Ross"
+                  },
+                  {
+                    "id": 1765427083524.751,
+                    "name": "Richard Daniel",
+                    "firstName": "Richard",
+                    "lastName": "Daniel"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": "2025-12-18T17:30",
+            "court": "2",
+            "status": "Scheduled",
+            "score": null
+          },
+          {
+            "id": "m-1765961594266-0.3720765716752389",
+            "round": 2,
+            "teamA": {
+              "id": "double-1765961589732-0.9954514033805597",
+              "name": "Douglas Joyce / Jesse Davis",
+              "raw": {
+                "id": "double-1765961589732-0.9954514033805597",
+                "teamName": "Double Team 6",
+                "players": [
+                  {
+                    "id": 1765427083524.494,
+                    "name": "Douglas Joyce",
+                    "firstName": "Douglas",
+                    "lastName": "Joyce"
+                  },
+                  {
+                    "id": 1765427083524.6099,
+                    "name": "Jesse Davis",
+                    "firstName": "Jesse",
+                    "lastName": "Davis"
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765961573048-0.21030711850291117",
+              "name": "Margaret Brown / Kathryn Vincent",
+              "raw": {
+                "id": "double-1765961573048-0.21030711850291117",
+                "teamName": "Double Team 4",
+                "players": [
+                  {
+                    "id": 1765427083524.6162,
+                    "name": "Margaret Brown",
+                    "firstName": "Margaret",
+                    "lastName": "Brown"
+                  },
+                  {
+                    "id": 1765427083524.2769,
+                    "name": "Kathryn Vincent",
+                    "firstName": "Kathryn",
+                    "lastName": "Vincent"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": "2025-12-19T22:00",
+            "court": "1",
+            "status": "Scheduled",
+            "score": null
+          },
+          {
+            "id": "m-1765961594266-0.6736936922504758",
+            "round": 2,
+            "teamA": {
+              "id": "double-1765961565034-0.5226317386553224",
+              "name": "Tracy Marsh / Sneha Bhavsar",
+              "raw": {
+                "id": "double-1765961565034-0.5226317386553224",
+                "teamName": "Double Team 2",
+                "players": [
+                  {
+                    "id": 1765427083524.009,
+                    "name": "Tracy Marsh",
+                    "firstName": "Tracy",
+                    "lastName": "Marsh"
+                  },
+                  {
+                    "id": 1765270213471,
+                    "name": "Sneha Bhavsar",
+                    "firstName": "Sneha",
+                    "lastName": "Bhavsar"
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765961569165-0.2894131886951883",
+              "name": "Eric Taylor / Ruth Rodriguez",
+              "raw": {
+                "id": "double-1765961569165-0.2894131886951883",
+                "teamName": "Double Team 3",
+                "players": [
+                  {
+                    "id": 1765427083524.8928,
+                    "name": "Eric Taylor",
+                    "firstName": "Eric",
+                    "lastName": "Taylor"
+                  },
+                  {
+                    "id": 1765427083524.9927,
+                    "name": "Ruth Rodriguez",
+                    "firstName": "Ruth",
+                    "lastName": "Rodriguez"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": "2025-12-19T23:00",
+            "court": "1",
+            "status": "Scheduled",
+            "score": null
+          },
+          {
+            "id": "m-1765961594266-0.8352571906949209",
+            "round": 3,
+            "teamA": {
+              "id": "double-1765961560770-0.02295692910998448",
+              "name": "Nimisha Idekar / test",
+              "raw": {
+                "id": "double-1765961560770-0.02295692910998448",
+                "teamName": "Double Team 1",
+                "players": [
+                  {
+                    "id": 1765270149058,
+                    "name": "Nimisha Idekar",
+                    "firstName": "Nimisha",
+                    "lastName": "Idekar"
+                  },
+                  {
+                    "id": 1765278912540,
+                    "name": "test",
+                    "firstName": "test",
+                    "lastName": ""
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765961573048-0.21030711850291117",
+              "name": "Margaret Brown / Kathryn Vincent",
+              "raw": {
+                "id": "double-1765961573048-0.21030711850291117",
+                "teamName": "Double Team 4",
+                "players": [
+                  {
+                    "id": 1765427083524.6162,
+                    "name": "Margaret Brown",
+                    "firstName": "Margaret",
+                    "lastName": "Brown"
+                  },
+                  {
+                    "id": 1765427083524.2769,
+                    "name": "Kathryn Vincent",
+                    "firstName": "Kathryn",
+                    "lastName": "Vincent"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": null,
+            "court": "",
+            "status": "Scheduled",
+            "score": null
+          },
+          {
+            "id": "m-1765961594266-0.9513598131747412",
+            "round": 3,
+            "teamA": {
+              "id": "double-1765961583133-0.3129894956373378",
+              "name": "Sonia Ross / Richard Daniel",
+              "raw": {
+                "id": "double-1765961583133-0.3129894956373378",
+                "teamName": "Double Team 5",
+                "players": [
+                  {
+                    "id": 1765427083524.163,
+                    "name": "Sonia Ross",
+                    "firstName": "Sonia",
+                    "lastName": "Ross"
+                  },
+                  {
+                    "id": 1765427083524.751,
+                    "name": "Richard Daniel",
+                    "firstName": "Richard",
+                    "lastName": "Daniel"
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765961569165-0.2894131886951883",
+              "name": "Eric Taylor / Ruth Rodriguez",
+              "raw": {
+                "id": "double-1765961569165-0.2894131886951883",
+                "teamName": "Double Team 3",
+                "players": [
+                  {
+                    "id": 1765427083524.8928,
+                    "name": "Eric Taylor",
+                    "firstName": "Eric",
+                    "lastName": "Taylor"
+                  },
+                  {
+                    "id": 1765427083524.9927,
+                    "name": "Ruth Rodriguez",
+                    "firstName": "Ruth",
+                    "lastName": "Rodriguez"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": null,
+            "court": "",
+            "status": "Scheduled",
+            "score": null
+          },
+          {
+            "id": "m-1765961594266-0.934086655032657",
+            "round": 3,
+            "teamA": {
+              "id": "double-1765961589732-0.9954514033805597",
+              "name": "Douglas Joyce / Jesse Davis",
+              "raw": {
+                "id": "double-1765961589732-0.9954514033805597",
+                "teamName": "Double Team 6",
+                "players": [
+                  {
+                    "id": 1765427083524.494,
+                    "name": "Douglas Joyce",
+                    "firstName": "Douglas",
+                    "lastName": "Joyce"
+                  },
+                  {
+                    "id": 1765427083524.6099,
+                    "name": "Jesse Davis",
+                    "firstName": "Jesse",
+                    "lastName": "Davis"
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765961565034-0.5226317386553224",
+              "name": "Tracy Marsh / Sneha Bhavsar",
+              "raw": {
+                "id": "double-1765961565034-0.5226317386553224",
+                "teamName": "Double Team 2",
+                "players": [
+                  {
+                    "id": 1765427083524.009,
+                    "name": "Tracy Marsh",
+                    "firstName": "Tracy",
+                    "lastName": "Marsh"
+                  },
+                  {
+                    "id": 1765270213471,
+                    "name": "Sneha Bhavsar",
+                    "firstName": "Sneha",
+                    "lastName": "Bhavsar"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": null,
+            "court": "",
+            "status": "Scheduled",
+            "score": null
+          },
+          {
+            "id": "m-1765961594266-0.6463195950948488",
+            "round": 4,
+            "teamA": {
+              "id": "double-1765961560770-0.02295692910998448",
+              "name": "Nimisha Idekar / test",
+              "raw": {
+                "id": "double-1765961560770-0.02295692910998448",
+                "teamName": "Double Team 1",
+                "players": [
+                  {
+                    "id": 1765270149058,
+                    "name": "Nimisha Idekar",
+                    "firstName": "Nimisha",
+                    "lastName": "Idekar"
+                  },
+                  {
+                    "id": 1765278912540,
+                    "name": "test",
+                    "firstName": "test",
+                    "lastName": ""
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765961569165-0.2894131886951883",
+              "name": "Eric Taylor / Ruth Rodriguez",
+              "raw": {
+                "id": "double-1765961569165-0.2894131886951883",
+                "teamName": "Double Team 3",
+                "players": [
+                  {
+                    "id": 1765427083524.8928,
+                    "name": "Eric Taylor",
+                    "firstName": "Eric",
+                    "lastName": "Taylor"
+                  },
+                  {
+                    "id": 1765427083524.9927,
+                    "name": "Ruth Rodriguez",
+                    "firstName": "Ruth",
+                    "lastName": "Rodriguez"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": null,
+            "court": "",
+            "status": "Scheduled",
+            "score": null
+          },
+          {
+            "id": "m-1765961594266-0.9836502901850572",
+            "round": 4,
+            "teamA": {
+              "id": "double-1765961573048-0.21030711850291117",
+              "name": "Margaret Brown / Kathryn Vincent",
+              "raw": {
+                "id": "double-1765961573048-0.21030711850291117",
+                "teamName": "Double Team 4",
+                "players": [
+                  {
+                    "id": 1765427083524.6162,
+                    "name": "Margaret Brown",
+                    "firstName": "Margaret",
+                    "lastName": "Brown"
+                  },
+                  {
+                    "id": 1765427083524.2769,
+                    "name": "Kathryn Vincent",
+                    "firstName": "Kathryn",
+                    "lastName": "Vincent"
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765961565034-0.5226317386553224",
+              "name": "Tracy Marsh / Sneha Bhavsar",
+              "raw": {
+                "id": "double-1765961565034-0.5226317386553224",
+                "teamName": "Double Team 2",
+                "players": [
+                  {
+                    "id": 1765427083524.009,
+                    "name": "Tracy Marsh",
+                    "firstName": "Tracy",
+                    "lastName": "Marsh"
+                  },
+                  {
+                    "id": 1765270213471,
+                    "name": "Sneha Bhavsar",
+                    "firstName": "Sneha",
+                    "lastName": "Bhavsar"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": null,
+            "court": "",
+            "status": "Scheduled",
+            "score": null
+          },
+          {
+            "id": "m-1765961594266-0.9142557031758832",
+            "round": 4,
+            "teamA": {
+              "id": "double-1765961583133-0.3129894956373378",
+              "name": "Sonia Ross / Richard Daniel",
+              "raw": {
+                "id": "double-1765961583133-0.3129894956373378",
+                "teamName": "Double Team 5",
+                "players": [
+                  {
+                    "id": 1765427083524.163,
+                    "name": "Sonia Ross",
+                    "firstName": "Sonia",
+                    "lastName": "Ross"
+                  },
+                  {
+                    "id": 1765427083524.751,
+                    "name": "Richard Daniel",
+                    "firstName": "Richard",
+                    "lastName": "Daniel"
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765961589732-0.9954514033805597",
+              "name": "Douglas Joyce / Jesse Davis",
+              "raw": {
+                "id": "double-1765961589732-0.9954514033805597",
+                "teamName": "Double Team 6",
+                "players": [
+                  {
+                    "id": 1765427083524.494,
+                    "name": "Douglas Joyce",
+                    "firstName": "Douglas",
+                    "lastName": "Joyce"
+                  },
+                  {
+                    "id": 1765427083524.6099,
+                    "name": "Jesse Davis",
+                    "firstName": "Jesse",
+                    "lastName": "Davis"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": null,
+            "court": "",
+            "status": "Scheduled",
+            "score": null
+          },
+          {
+            "id": "m-1765961594266-0.48163109019523653",
+            "round": 5,
+            "teamA": {
+              "id": "double-1765961560770-0.02295692910998448",
+              "name": "Nimisha Idekar / test",
+              "raw": {
+                "id": "double-1765961560770-0.02295692910998448",
+                "teamName": "Double Team 1",
+                "players": [
+                  {
+                    "id": 1765270149058,
+                    "name": "Nimisha Idekar",
+                    "firstName": "Nimisha",
+                    "lastName": "Idekar"
+                  },
+                  {
+                    "id": 1765278912540,
+                    "name": "test",
+                    "firstName": "test",
+                    "lastName": ""
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765961565034-0.5226317386553224",
+              "name": "Tracy Marsh / Sneha Bhavsar",
+              "raw": {
+                "id": "double-1765961565034-0.5226317386553224",
+                "teamName": "Double Team 2",
+                "players": [
+                  {
+                    "id": 1765427083524.009,
+                    "name": "Tracy Marsh",
+                    "firstName": "Tracy",
+                    "lastName": "Marsh"
+                  },
+                  {
+                    "id": 1765270213471,
+                    "name": "Sneha Bhavsar",
+                    "firstName": "Sneha",
+                    "lastName": "Bhavsar"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": null,
+            "court": "",
+            "status": "Scheduled",
+            "score": null
+          },
+          {
+            "id": "m-1765961594266-0.5413160453672191",
+            "round": 5,
+            "teamA": {
+              "id": "double-1765961569165-0.2894131886951883",
+              "name": "Eric Taylor / Ruth Rodriguez",
+              "raw": {
+                "id": "double-1765961569165-0.2894131886951883",
+                "teamName": "Double Team 3",
+                "players": [
+                  {
+                    "id": 1765427083524.8928,
+                    "name": "Eric Taylor",
+                    "firstName": "Eric",
+                    "lastName": "Taylor"
+                  },
+                  {
+                    "id": 1765427083524.9927,
+                    "name": "Ruth Rodriguez",
+                    "firstName": "Ruth",
+                    "lastName": "Rodriguez"
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765961589732-0.9954514033805597",
+              "name": "Douglas Joyce / Jesse Davis",
+              "raw": {
+                "id": "double-1765961589732-0.9954514033805597",
+                "teamName": "Double Team 6",
+                "players": [
+                  {
+                    "id": 1765427083524.494,
+                    "name": "Douglas Joyce",
+                    "firstName": "Douglas",
+                    "lastName": "Joyce"
+                  },
+                  {
+                    "id": 1765427083524.6099,
+                    "name": "Jesse Davis",
+                    "firstName": "Jesse",
+                    "lastName": "Davis"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": null,
+            "court": "",
+            "status": "Scheduled",
+            "score": null
+          },
+          {
+            "id": "m-1765961594266-0.5001740985690958",
+            "round": 5,
+            "teamA": {
+              "id": "double-1765961573048-0.21030711850291117",
+              "name": "Margaret Brown / Kathryn Vincent",
+              "raw": {
+                "id": "double-1765961573048-0.21030711850291117",
+                "teamName": "Double Team 4",
+                "players": [
+                  {
+                    "id": 1765427083524.6162,
+                    "name": "Margaret Brown",
+                    "firstName": "Margaret",
+                    "lastName": "Brown"
+                  },
+                  {
+                    "id": 1765427083524.2769,
+                    "name": "Kathryn Vincent",
+                    "firstName": "Kathryn",
+                    "lastName": "Vincent"
+                  }
+                ]
+              }
+            },
+            "teamB": {
+              "id": "double-1765961583133-0.3129894956373378",
+              "name": "Sonia Ross / Richard Daniel",
+              "raw": {
+                "id": "double-1765961583133-0.3129894956373378",
+                "teamName": "Double Team 5",
+                "players": [
+                  {
+                    "id": 1765427083524.163,
+                    "name": "Sonia Ross",
+                    "firstName": "Sonia",
+                    "lastName": "Ross"
+                  },
+                  {
+                    "id": 1765427083524.751,
+                    "name": "Richard Daniel",
+                    "firstName": "Richard",
+                    "lastName": "Daniel"
+                  }
+                ]
+              }
+            },
+            "scheduledAt": null,
+            "court": "",
+            "status": "Scheduled",
+            "score": null
+          }
+        ],
+        "manual": false,
+        "showAddPlayerForm": false,
+        "rounds": []
+      }
+    ]
+  }
+]

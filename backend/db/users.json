@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1765011509645,
+    "full_name": "Nimisha ",
+    "email": "nimisha@sportsnextindia.com",
+    "password": "$2b$10$ECMd.ZvIAOvm2lXnBRyXneTyR5bY1b/JCMVpmFMWd3/p/iFV/09jG",
+    "fullName": "Nimisha ",
+    "status": "Active",
+    "role": "Super Admin",
+    "permissions": {
+      "Events": {
+        "view": true,
+        "create": true,
+        "edit": true,
+        "delete": true
+      },
+      "Venues": {
+        "view": true,
+        "create": true,
+        "edit": true,
+        "delete": true
+      },
+      "Sports": {
+        "view": true,
+        "create": true,
+        "edit": true,
+        "delete": true
+      },
+      "Players": {
+        "view": true,
+        "create": true,
+        "edit": true,
+        "delete": true
+      },
+      "Teams": {
+        "view": true,
+        "create": true,
+        "edit": true,
+        "delete": true
+      },
+      "Franchise Panel": {
+        "view": true,
+        "create": true,
+        "edit": true,
+        "delete": true
+      },
+      "Scoring Panel": {
+        "view": true,
+        "create": true,
+        "edit": true,
+        "delete": true
+      },
+      "Commentary Panel": {
+        "view": true,
+        "create": true,
+        "edit": true,
+        "delete": true
+      }
+    },
+    "updatedAt": "2025-12-09T10:06:11.283Z"
+  },
+  {
+    "id": 1765573667516,
+    "full_name": "sneha",
+    "email": "sneha@gmail.com",
+    "password": "$2b$10$6mOJ/MTwDfla9HlIfG2B2OoePosHHZf4wHw51qigGq9LHrBmhwwJ6",
+    "role": "user"
+  }
+]

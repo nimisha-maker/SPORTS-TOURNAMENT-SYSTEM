@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1765573610525,
+    "userId": 1765541388463,
+    "action": "USER_DELETED",
+    "meta": {},
+    "timestamp": "2025-12-12T21:06:50.525Z"
+  },
+  {
+    "id": 1765573546558,
+    "userId": 1765541388463,
+    "action": "USER_UPDATED",
+    "meta": {
+      "by": "SUPER_ADMIN_UI"
+    },
+    "timestamp": "2025-12-12T21:05:46.558Z"
+  },
+  {
+    "id": 1765341708236,
+    "userId": 1765341708229,
+    "action": "USER_CREATED",
+    "meta": {
+      "by": "SUPER_ADMIN_UI"
+    },
+    "timestamp": "2025-12-10T04:41:48.236Z"
+  },
+  {
+    "id": 1765275850791,
+    "userId": 1765275765234,
+    "action": "USER_DELETED",
+    "meta": {},
+    "timestamp": "2025-12-09T10:24:10.791Z"
+  },
+  {
+    "id": 1765274771286,
+    "userId": 1765011509645,
+    "action": "USER_UPDATED",
+    "meta": {
+      "by": "SUPER_ADMIN_UI"
+    },
+    "timestamp": "2025-12-09T10:06:11.286Z"
+  }
+]

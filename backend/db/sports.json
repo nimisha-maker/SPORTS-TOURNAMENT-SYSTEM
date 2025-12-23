@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1765265503283,
+    "name": "Padel",
+    "icon": "",
+    "scoringType": "Set-wise",
+    "sets": 3,
+    "overs": null,
+    "tieBreak": [
+      "Set tiebreak (7)"
+    ],
+    "notes": "Padel uses set logic; typical 3-set match with golden point tie-break."
+  },
+  {
+    "id": 1765265732646,
+    "name": "Badminton",
+    "icon": "",
+    "scoringType": "Set-wise",
+    "sets": 3,
+    "overs": null,
+    "tieBreak": [
+      "Golden Point"
+    ],
+    "notes": "Best of 3 sets, 21 points per set."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1765341466189,
+    "venueName": "Xavier",
+    "address": "Xavier, Cascavelle, Cascavelle VCA West, Black River, Mauritius",
+    "city": "Cascavelle VCA West",
+    "state": "Black River",
+    "country": "Mauritius",
+    "latitude": "-20.2877521",
+    "longitude": "57.4044767",
+    "grounds": [
+      {
+        "groundType": "General",
+        "courtCount": 1,
+        "groundName": "Main Ground"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": 1765428899370,
+    "venueName": "Wankhede Stadium",
+    "address": "Wankhede Stadium, Maharshi Karve Road, Fort, A Ward, Zone 1, Mumbai, Mumbai City, Maharashtra, 400020, India",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "country": "India",
+    "latitude": "18.9385497",
+    "longitude": "72.8257408",
+    "grounds": [
+      {
+        "groundType": "Cricket",
+        "courtCount": "1",
+        "groundName": "Main Cricket Ground"
+      }
+    ],
+    "notes": ""
+  }
+]

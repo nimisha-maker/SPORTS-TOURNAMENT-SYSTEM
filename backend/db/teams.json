@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1765278836966,
+    "name": "mumbai indians",
+    "sportId": "1765265503283",
+    "sportName": "Padel",
+    "players": [
+      {
+        "id": 1765270149058,
+        "firstName": "Nimisha",
+        "lastName": "Idekar",
+        "gender": "Female",
+        "dob": "2003-08-13",
+        "email": "nimisha@sportsnextindia.com",
+        "mobile": "98429310302",
+        "status": "Active",
+        "photo": ""
+      },
+      {
+        "id": 1765270213471,
+        "firstName": "Sneha",
+        "lastName": "Bhavsar",
+        "gender": "Female",
+        "dob": "2003-05-09",
+        "email": "sneha@gmail.com",
+        "mobile": "2345678942",
+        "status": "Active",
+        "photo": ""
+      },
+      {
+        "id": 1765278912540,
+        "firstName": "test",
+        "lastName": "",
+        "gender": "Male",
+        "dob": "2025-12-02",
+        "email": "test@gmail.com",
+        "mobile": "9849233294",
+        "status": "Active",
+        "photo": ""
+      }
+    ],
+    "manager": {
+      "name": "test",
+      "email": "test@gmail.com",
+      "mobile": "xxxxxxxxxx"
+    },
+    "status": "Active",
+    "logo": "",
+    "createdAt": "2025-12-09T11:13:56.966Z",
+    "updatedAt": "2025-12-09T11:15:34.073Z"
+  }
+]
