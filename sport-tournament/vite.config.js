@@ -9,6 +9,8 @@ export default defineConfig({
     react(),
     tailwindcss(),
 
+
   ],
+  base: "/Sports-Tournament-System/", 
   
 })
