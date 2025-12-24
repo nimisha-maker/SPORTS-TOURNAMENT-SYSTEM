@@ -11,7 +11,10 @@ import teamRoutes from "./routes/teamRoutes.js";
 import tournamentRoutes from "./routes/tournamentRoutes.js";
 
 const app = express();
-app.use(cors());
+app.use(cors({
+  origin: "https://nimisha-maker.github.io",
+  credentials: true
+}));
 
 // FIX 413 ERROR
 app.use(express.json({ limit: "10mb" }));
@@ -28,4 +31,6 @@ app.use("/api/teams", teamRoutes);
 app.use("/api/tournaments", tournamentRoutes);
 
 
-app.listen(5000, () => console.log("Server running on port 5000"));
+
+const PORT = process.env.PORT || 5000;
+app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
