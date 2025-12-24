@@ -38,7 +38,7 @@ import UserTournamentDetail from "./pages/End_user/UserTournamentDetail.jsx";
 import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-  <BrowserRouter>
+  <BrowserRouter basename="/SPORTS-TOURNAMENT-SYSTEM">
     <Routes>
       {/* PUBLIC */}
       <Route path="/" element={<Login />} />

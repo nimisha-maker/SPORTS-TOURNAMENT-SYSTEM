@@ -11,6 +11,6 @@ export default defineConfig({
 
 
   ],
-  base: "/Sports-Tournament-System/", 
+  base: "/SPORTS-TOURNAMENT-SYSTEM/", 
   
 })
